@@ -1,4 +1,7 @@
 # scuba-game
+
+![Screenshot](https://github.com/justinbrinkman/scuba-game/blob/master/SCUBA_screenshot.PNG)
+
 Use arrow keys [UP] [DOWN] [LEFT] [RIGHT] to dodge sharks and collect oxygen "powerups". Game ends when you run into a shark or fail to collect a powerup. Score += 1 for each shark you dodge.
 
 Image sources cited in code:
